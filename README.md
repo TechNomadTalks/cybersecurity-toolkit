@@ -1,2 +1,2 @@
 # cybersecurity-toolkit
-A toolkit of small Python utilities like:  Port Scanner  Hash Cracker  Network Ping Sweeper  Password Strength Checker (bonus)
+A toolkit of some very helpful tools for diversing the cyberspace, some are linux based so have your VM ready :)
